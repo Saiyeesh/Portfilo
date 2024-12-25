@@ -1,0 +1,78 @@
+.educationBack{
+    background-image:linear-gradient(black, #222a35);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.educationBack h1{
+    font-family: Roboto;
+    font-size: 40px;
+    color: white;
+}
+
+.educationBack p{
+    font-family: Roboto;
+    color: #575c66;
+    font-size: 20px;
+}
+.educationBoxes{
+    border: 1.7px solid rgb(133, 76, 230);
+    border-radius: 10px;
+    width: 40%;
+    margin: 10px;
+}
+
+.edcationBox1{
+    display: flex;
+    margin-top: -10px;
+    align-items: center;
+    padding: 10px;
+}
+
+.avn-img{
+    height: 60px;
+    width: 80px;
+}
+
+.Txt-educ{
+    padding-left: 10px;
+}
+
+.Txt-educ h4{
+    color: rgba(242, 243, 244, 0.6);;
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.Txt-educ h5{
+    color: rgba(177, 178, 179, 0.6);
+    font-family: Roboto;
+    font-size: 14px;
+    margin-top: -15px;
+}
+
+.Txt-educ h6{
+    color: rgba(177, 178, 179, 0.5);
+    font-family: Roboto;
+    font-size: 10px;
+    margin-top: -15px;
+}
+
+.grade{
+    font-family: Roboto;
+    font-weight: bold;
+    color: rgba(177, 178, 179, 0.6);
+    margin-top: -25px;
+    padding-left: 15px;
+}
+
+.educationBoxes p {
+    font-family: Roboto;
+    font-size: 10px;
+    color: rgba(242, 243, 244, 0.6);
+    margin-top: -15px;
+    padding-left: 15px;
+}
